@@ -1,5 +1,5 @@
 # Django Select2 Integration
-
+https://www.youtube.com/watch?v=8VYx-cNF1lU
 
 ## Usage
 
